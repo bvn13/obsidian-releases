@@ -39429,5 +39429,12 @@
     "author": "Dimar4713",
     "description": "Browse and transfer files between your vault and Yandex Disk, with previews, progress, bilingual UI, and desktop proxy support. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dimar4713/aimeton-cloud-bridge"
+  },
+  {
+    "id": "note-publisher",
+    "name": "Note publisher",
+    "author": "bvn13",
+    "description": "Publishes a note (with its images) to a private GitHub repo and creates a UUID-only public link rendered by a self-hosted worker.",
+    "repo": "obsidian-note-publisher/obsidian-plugin-note-publisher"
   }
 ]
